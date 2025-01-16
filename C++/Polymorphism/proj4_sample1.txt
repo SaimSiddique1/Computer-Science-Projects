@@ -1,0 +1,208 @@
+Loading file: proj4_map1.txt
+
+Silent Hill 2 Remake
+Hero Name: James
+You start with a shotgun!
+
+Desolate Street
+The road stretches ahead, cracked and weathered, with weeds pushing through the asphalt. On either side, towering rusted fences line the path, their jagged edges entangled with remnants of barbed wire. The sky above is a dull, oppressive gray, casting long shadows across the desolate landscape. The only break in this grim enclosure is a single, narrow exit to the east—an ominous gap in the fence, leading to an unknown fate beyond the horizon. Dust swirls in the air, and silence hangs heavy, as if the world itself is holding its breath.
+Possible Exits: E
+A monster that looks like two fashion dummies stitched together, consisting of two pairs of legs stands here.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 6 damage.
+Mannequin attacks!
+James Health: 7
+Mannequin: Health: 8: Damage: 1
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 4 damage.
+The mannequin smashes with their kick!
+You take 3 points of damage.
+James Health: 4
+Mannequin: Health: 4: Damage: 1
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 4 damage.
+Mannequin attacks!
+You have defeated the Mannequin.
+You have earned 2 experience points.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+1
+
+Desolate Street
+The road stretches ahead, cracked and weathered, with weeds pushing through the asphalt. On either side, towering rusted fences line the path, their jagged edges entangled with remnants of barbed wire. The sky above is a dull, oppressive gray, casting long shadows across the desolate landscape. The only break in this grim enclosure is a single, narrow exit to the east—an ominous gap in the fence, leading to an unknown fate beyond the horizon. Dust swirls in the air, and silence hangs heavy, as if the world itself is holding its breath.
+Possible Exits: E
+It is peaceful here.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+2
+Which direction? (N E S W)
+n
+Which direction? (N E S W)
+w
+Which direction? (N E S W)
+s
+Which direction? (N E S W)
+e
+
+Gas Station
+The road is deserted, flanked by crumbling buildings and the skeletal remains of a long-abandoned gas station. Its once-bright sign now hangs crooked, barely legible, while the pumps are rusted, and the windows shattered, leaving dark, empty holes. The air smells faintly of decay and gasoline, lingering from a time long past. Debris litters the cracked pavement, and the silence is broken only by the occasional gust of wind. The only way out is a narrow opening in a rusted fence to the west, offering a bleak escape into the unknown beyond the wasteland.
+Possible Exits: W
+A large grotesque cockroach is here.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+4
+You don't have enough money to improve your weapon.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+5
+Name: James
+HP: 8
+Experience points: 2
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+0
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+7
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 6 damage.
+Creeper attacks!
+James Health: 5
+Creeper: Health: 4: Damage: 3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 6 damage.
+Creeper attacks!
+You have defeated the Creeper.
+You have earned 2 experience points.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+4
+How much would you like to improve your weapon? (max 1).
+1
+You have improved your weapon by 1 damage.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+1
+
+Gas Station
+The road is deserted, flanked by crumbling buildings and the skeletal remains of a long-abandoned gas station. Its once-bright sign now hangs crooked, barely legible, while the pumps are rusted, and the windows shattered, leaving dark, empty holes. The air smells faintly of decay and gasoline, lingering from a time long past. Debris litters the cracked pavement, and the silence is broken only by the occasional gust of wind. The only way out is a narrow opening in a rusted fence to the west, offering a bleak escape into the unknown beyond the wasteland.
+Possible Exits: W
+It is peaceful here.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+2
+Which direction? (N E S W)
+w
+
+Desolate Street
+The road stretches ahead, cracked and weathered, with weeds pushing through the asphalt. On either side, towering rusted fences line the path, their jagged edges entangled with remnants of barbed wire. The sky above is a dull, oppressive gray, casting long shadows across the desolate landscape. The only break in this grim enclosure is a single, narrow exit to the east—an ominous gap in the fence, leading to an unknown fate beyond the horizon. Dust swirls in the air, and silence hangs heavy, as if the world itself is holding its breath.
+Possible Exits: E
+A large grotesque cockroach is here.
+What would you like to do?
+1. Look
+2. Move
+3. Attack Enemy
+4. Improve Weapon
+5. Check Stats
+6. Quit
+3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 6 damage.
+Creeper attacks!
+James Health: 5
+Creeper: Health: 4: Damage: 3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 2 damage.
+Creeper attacks!
+James Health: 2
+Creeper: Health: 2: Damage: 3
+1. Punch Enemy
+2. Use shotgun
+2
+You fire both barrels of the shotgun.
+It does 2 damage.
+Creeper attacks!
+You defeated each other at the same time!
+Thank you for playing Silent Hill 2 Remake
