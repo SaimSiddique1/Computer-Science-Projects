@@ -1,0 +1,12 @@
+List of Commands:
+
+Single-word command: quit 
+
+Two-word commands: display people 
+                   display locations 
+                   display clues 
+                   catch Carmen
+
+Three-word commands: talk to [person_name] 
+                     go to [location_name] 
+                     investigate the [clue_name]
